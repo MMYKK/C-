@@ -10,7 +10,7 @@
 #include <limits.h>
 
 
-//使用#是把参数变成字符串，使用##是把前后连接的参数拼接起来
+//使用#是把参数变成字符串，使用##是把前后连接的参数拼接起来，方便使用
 #define A              2
 #define STR_A(a)       #a
 #define MULTI(a, b)    (a##e##b)

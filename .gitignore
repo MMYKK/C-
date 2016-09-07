@@ -1,0 +1,8 @@
+#为注释内容，下面是本文需要工程Git提交时，需要忽略的内容
+*.xcuserstate
+project.xcworkspace
+xcuserdata
+project.xcworkspace/xcuserdata/
+UserInterfaceState.xcuserstate
+.DS_Store
+
